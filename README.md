@@ -15,3 +15,8 @@ DynamicNotch is a macOS application inspired by the Dynamic Island feature on iP
 - [ ] Add more system event animations (e.g., Wi-Fi connection, Bluetooth devices)
 - [ ] Customizable animations and themes
 - [ ] User preferences for enabling/disabling specific animations
+
+
+# License
+
+This project is licensed under the [MIT license](LICENSE).
