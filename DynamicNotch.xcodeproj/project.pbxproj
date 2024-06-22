@@ -9,6 +9,7 @@
 /* Begin PBXBuildFile section */
 		CDBE91D02C2617590045C24F /* AirPodsAnimationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBE91CF2C2617590045C24F /* AirPodsAnimationController.swift */; };
 		CDBE91D22C2617CD0045C24F /* ChargingAnimationController.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDBE91D12C2617CD0045C24F /* ChargingAnimationController.swift */; };
+		CDBE91D52C2764390045C24F /* README.md in Resources */ = {isa = PBXBuildFile; fileRef = CDBE91D42C2764390045C24F /* README.md */; };
 		CDC712F72C1F55F600F89DA9 /* DynamicNotchApp.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDC712F62C1F55F600F89DA9 /* DynamicNotchApp.swift */; };
 		CDC712F92C1F55F600F89DA9 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = CDC712F82C1F55F600F89DA9 /* ContentView.swift */; };
 		CDC712FB2C1F55F700F89DA9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = CDC712FA2C1F55F700F89DA9 /* Assets.xcassets */; };
@@ -21,6 +22,7 @@
 		CDBE91CF2C2617590045C24F /* AirPodsAnimationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AirPodsAnimationController.swift; sourceTree = "<group>"; };
 		CDBE91D12C2617CD0045C24F /* ChargingAnimationController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ChargingAnimationController.swift; sourceTree = "<group>"; };
 		CDBE91D32C2623AA0045C24F /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist; path = Info.plist; sourceTree = "<group>"; };
+		CDBE91D42C2764390045C24F /* README.md */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = net.daringfireball.markdown; path = README.md; sourceTree = "<group>"; };
 		CDC712F32C1F55F600F89DA9 /* DynamicNotch.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = DynamicNotch.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		CDC712F62C1F55F600F89DA9 /* DynamicNotchApp.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DynamicNotchApp.swift; sourceTree = "<group>"; };
 		CDC712F82C1F55F600F89DA9 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
@@ -45,6 +47,7 @@
 		CDC712EA2C1F55F600F89DA9 = {
 			isa = PBXGroup;
 			children = (
+				CDBE91D42C2764390045C24F /* README.md */,
 				CDC712F52C1F55F600F89DA9 /* DynamicNotch */,
 				CDC712F42C1F55F600F89DA9 /* Products */,
 			);
@@ -146,6 +149,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				CDBE91D52C2764390045C24F /* README.md in Resources */,
 				CDC712FE2C1F55F700F89DA9 /* Preview Assets.xcassets in Resources */,
 				CDC712FB2C1F55F700F89DA9 /* Assets.xcassets in Resources */,
 			);

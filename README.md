@@ -4,6 +4,8 @@ DynamicNotch is a macOS application inspired by the Dynamic Island feature on iP
 
 ## Features
 
+
+
 - **Dynamic Charging Animation:** Displays an animation when the MacBook is plugged in or unplugged, showing the current battery status and charging status.
 - **AirPods Connection Animation:** Shows an animation when AirPods are connected, displaying their battery levels and connection status.
 - **Runs in the Background:** The app runs in the background without displaying an icon in the dock.
@@ -16,6 +18,12 @@ DynamicNotch is a macOS application inspired by the Dynamic Island feature on iP
 - [ ] Customizable animations and themes
 - [ ] User preferences for enabling/disabling specific animations
 
+## Thanks
+
+Special thanks to the developers of the DynamicNotchKit:
+
+- [MrKai77](https://github.com/MrKai77/DynamicNotchKit.git)
+- [Pallepadehat](https://github.com/Pallepadehat/DynamicNotchKit.git)
 
 # License
 
