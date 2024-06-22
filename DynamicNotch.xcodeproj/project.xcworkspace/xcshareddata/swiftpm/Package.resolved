@@ -1,0 +1,15 @@
+{
+  "originHash" : "1512f21f54cfb1f3f5386c8e5cf183f2aa797314d92dcfb067e6d526a4d521e6",
+  "pins" : [
+    {
+      "identity" : "dynamicnotchkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Pallepadehat/DynamicNotchKit.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "29a8d3b75d0b727272f04c96cb4589f14156cb8b"
+      }
+    }
+  ],
+  "version" : 3
+}
